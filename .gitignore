@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+follow_hsr/debug_output/
+data/
+*.wav
+*.jpg

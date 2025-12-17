@@ -1,0 +1,13 @@
+# Human Following Robot Dependencies
+# Install with: pip install -r requirements.txt
+
+# Computer Vision
+opencv-python>=4.8.0
+numpy>=1.24.0
+
+# Person Detection (recommended - better accuracy)
+mediapipe>=0.10.0
+
+# Note: ROS 2 (rclpy, geometry_msgs) comes from your existing ROS 2 install
+# You already have this if your other Create3 scripts work
+
